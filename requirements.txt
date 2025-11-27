@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+jinja2
+weasyprint
+colorama
+tqdm
+dnspython
+sqlmap-api-client
